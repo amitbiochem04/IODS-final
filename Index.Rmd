@@ -120,7 +120,7 @@ cens = km$centers
 points(cens%*%V[,1],cens%*%V[,2],col=1:K,pch=16,cex=3)
 ```
 
-Simillar results were observed by K-means clustering as well. 
+Simillar results were observed by K-means clustering as well
 
 
 
